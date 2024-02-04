@@ -1,0 +1,5 @@
+Burgers in stock: 39
+Queue 1: q w,1;a s,1;
+Queue 2: r e,1;p g,1;j h,1;
+Queue 3: l k,1;x c,1;n h,1;g f,1;d f,1;
+
